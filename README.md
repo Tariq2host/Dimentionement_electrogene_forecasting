@@ -15,7 +15,7 @@ Ce projet résout ce problème à l'aide d'une approche rigoureuse basée sur le
 
 ##  Stack Technique
 
-* **Langage :** Python 3
+* **Langage :** !!!!! PYTHON VERSION: 3.12.6
 * **Analyse de données & Preprocessing :** Pandas, NumPy
 * **Modélisation Statistique & Classique :** Statsmodels (ETS, SARIMA, SARIMAX)
 * **Modélisation Avancée :** Prophet (Meta), XGBoost
